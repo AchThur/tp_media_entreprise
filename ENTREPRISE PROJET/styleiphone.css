@@ -1,0 +1,119 @@
+/* @import url(https://fonts.googleapis.com/css?family=Marck+Script); */
+/* @import url(https://fonts.googleapis.com/css?family=Poiret+One); */
+/* @media handheld { mqx width : 675 px  */
+	
+
+/* body */
+/* { */
+	/* background-image: url("Images/Background.jpg"); */
+/* } */
+/* .menu */
+/* { */
+	/* padding: 0; */
+	/* list-style: none; */
+	/* font-family: 'Poiret One', cursive; */
+	/* font-size: 24px; */
+	/* text-align: center; */
+/* }	 */
+/* .menu li{ */
+		/* display:inline; */
+/* } */
+/* .menu li a{ */
+		/* color:#4682B4; */
+		/* text-decoration:none; */
+		/* padding:10px; */
+		/* display:inline-block; */
+/* } */
+/* .menu li a:hover{ */
+	/* color:#E4F6FA; */
+/* } */
+
+/* p */
+/* { */
+	/* font-size: 24px; */
+	/* color:#4682B4; */
+/* } */
+/* .container */
+/* { */
+	/* max-width:960px; */
+	/* margin:0 auto; */
+/* } */
+
+/* h1 */
+/* { */
+	/* color: #FFF;  */
+	/* font-family: 'Marck Script', cursive; */
+	/* text-align:center; */
+	/* margin-top: 30px; */
+/* } */
+
+/* #TitreArea */
+/* { */
+	/* vertical-align: top; */
+/* } */
+
+/* #message */
+/* { */
+	/* width: 300px; */
+	/* height: 150px; */
+/* } */
+
+/* #element1 img/*:nth-child(1)*/{ */
+	
+	/* width:250px; */
+	
+/* } */
+/* #element2 img/*:nth-child(1)*/{ */
+	
+	/* width:250px; */
+	
+/* } */
+
+/* .image2 */
+/* { */
+	/* float:right; */
+/* } */
+
+/* #text1 */
+/* { */
+	/* clear:both; */
+/* } */
+
+/* .image4 */
+/* { */
+	/* float:right; */
+	/* top:200px; */
+
+/* } */
+
+/* .text2  */
+/* { */
+	/* clear:both; */
+/* } */
+/* #element3 img:nth-child(1){ */
+	
+	/* width:250px; */
+	
+/* } */
+/* #element4 img:nth-child(1){ */
+
+	/* width:250px; */
+	
+/* } */
+
+/* .image5 */
+/* { */
+	/* display:flex; */
+	/* flex-direction:row; */
+	
+/* } */
+
+/* #field{ */
+	/* color:#E4F6FA; */
+/* } */
+
+/* #footer{ */
+	
+	/* margin-left:100 px; */
+/* } */
+/* } */

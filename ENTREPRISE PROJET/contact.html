@@ -1,0 +1,41 @@
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Contact - QuentArt</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	
+	<body>
+		<h1>Contact</h1>
+		<nav>
+		<ul class="menu container">
+			<li><a href="index.html">Accueil</a></li>
+			<li><a href="presentation.html">Présentation</a></li>
+			<li><a href="projet.html">Nos Projets</a></li>
+			<li><a href="partenaires.html">Nos Partenaires</a></li>
+			<li><a href="contact.html">Contact</a></li>
+		</ul>
+		</nav>
+		<div class="container">
+		<article>
+		<h1>Formulaire</h1>
+		<section>
+				<article>
+					<form method="POST/GET" action="#">
+						<fieldset id="field">
+							<label for="nom">Nom</label>: <input type="text" name="nom" id="nom" autofocus/>
+							<label for="prenom">Prénom</label>: <input type="text" name="prenom" id="prenom"/>
+							<label for="email">Adresse e-mail</label>: <input type="text" name="email" id="email"/>
+							<label for="Entreprise"> Entreprise</label>: <input type="text" name="email" id="email"/>
+						</fieldset>
+						<fieldset id="field">
+							<label id="TitreArea">Message:</label>
+							<textarea id="message">Laisser nous un commentaire</textarea>
+							<input type="submit" name="envoyer" value="Envoyer" onclick="affiche();">
+						</fieldset>
+					</form>
+				</article>
+		</section>
+		</div>
+	</body>
+</html>
